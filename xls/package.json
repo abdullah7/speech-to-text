@@ -1,0 +1,14 @@
+{
+  "name": "xls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate-json": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xls-to-json": "^0.4.0"
+  }
+}

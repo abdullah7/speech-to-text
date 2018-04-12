@@ -1,0 +1,16 @@
+{
+  "name": "speechmatics-test",
+  "version": "1.0.0",
+  "description": "Speech to text",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "speechmatics": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

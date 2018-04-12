@@ -1,0 +1,137 @@
+[
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Mein Name ist Donald Trump",
+        "FILE_MAPPING_1_KEY": "R_utterance01.wav",
+        "Transcription File Mapping 1": "",
+        "Levenshtein Distance 1": 26,
+        "FILE_MAPPING_2_KEY": "R_utterance01.wav",
+        "Transcription File Mapping 2": "",
+        "Levenshtein Distance 2": 26
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Mein Name ist Lena Koro und ich rufe nur für mich an",
+        "FILE_MAPPING_1_KEY": "R_utterance02.wav",
+        "Transcription File Mapping 1": "Mein Name ist Linda Coro und ich rufe nur für mich an .",
+        "Levenshtein Distance 1": 5,
+        "FILE_MAPPING_2_KEY": "R_utterance02.wav",
+        "Transcription File Mapping 2": "Mein Name ist Linda Coro und ich rufe nur für mich an .",
+        "Levenshtein Distance 2": 5
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Donna Paulsen",
+        "FILE_MAPPING_1_KEY": "R_utterance03.wav",
+        "Transcription File Mapping 1": "",
+        "Levenshtein Distance 1": 13,
+        "FILE_MAPPING_2_KEY": "R_utterance03.wav",
+        "Transcription File Mapping 2": "",
+        "Levenshtein Distance 2": 13
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Ich bin Donna Paulsen",
+        "FILE_MAPPING_1_KEY": "R_utterance04.wav",
+        "Transcription File Mapping 1": "",
+        "Levenshtein Distance 1": 21,
+        "FILE_MAPPING_2_KEY": "R_utterance04.wav",
+        "Transcription File Mapping 2": "",
+        "Levenshtein Distance 2": 21
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Ich bin Melissa Kruse und ich rufe auch für meine Kollegen an. Sie heißen Hillary Clinton, Malte Goga, und Richard Schwenke.",
+        "FILE_MAPPING_1_KEY": "R_utterance05.wav",
+        "Transcription File Mapping 1": "Bin cruse und hoffe meine Kollegen halten . Clinton Malte gauger und Schwenke .",
+        "Levenshtein Distance 1": 59,
+        "FILE_MAPPING_2_KEY": "R_utterance05.wav",
+        "Transcription File Mapping 2": "Bin cruse und hoffe meine Kollegen halten . Clinton Malte gauger und Schwenke .",
+        "Levenshtein Distance 2": 59
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Ich bin Tobias Wagenführer und die andere heißen Russell Hoffman und Simon Schwarzmeier.",
+        "FILE_MAPPING_1_KEY": "R_utterance06.wav",
+        "Transcription File Mapping 1": "Tobias Führer und die anderen heißen wasserlauf man Schwarzmaler .",
+        "Levenshtein Distance 1": 33,
+        "FILE_MAPPING_2_KEY": "R_utterance06.wav",
+        "Transcription File Mapping 2": "Tobias Führer und die anderen heißen wasserlauf man Schwarzmaler .",
+        "Levenshtein Distance 2": 33
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Russell Hoffman, Simon Schwarzmeier, und Michael Müller",
+        "FILE_MAPPING_1_KEY": "R_utterance07.wav",
+        "Transcription File Mapping 1": "Schwarzmaler Michael Müller .",
+        "Levenshtein Distance 1": 32,
+        "FILE_MAPPING_2_KEY": "R_utterance07.wav",
+        "Transcription File Mapping 2": "Schwarzmaler Michael Müller .",
+        "Levenshtein Distance 2": 32
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Klaus Kunkert und mein Kollege Simon Gerbert",
+        "FILE_MAPPING_1_KEY": "R_utterance08.wav",
+        "Transcription File Mapping 1": "Kuckart Mein Kollege Simon .",
+        "Levenshtein Distance 1": 19,
+        "FILE_MAPPING_2_KEY": "R_utterance08.wav",
+        "Transcription File Mapping 2": "Kuckart Mein Kollege Simon .",
+        "Levenshtein Distance 2": 19
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Für Karsten Sperber, für Stefan Jakovski, für Mark-Kleinhüker-Kottenk, hm, war n schwerer Name, hoffentlich schreibt der Computer richtig. Ja, ja, Kleinhükel Kotten. Kotten ja.",
+        "FILE_MAPPING_1_KEY": "R_utterance09.wav",
+        "Transcription File Mapping 1": "Casten Speerwerfen stefania Kopf denkt beim Namen auf das Christkind . Ja ja ja .",
+        "Levenshtein Distance 1": 123,
+        "FILE_MAPPING_2_KEY": "R_utterance09.wav",
+        "Transcription File Mapping 2": "Casten Speerwerfen stefania Kopf denkt beim Namen auf das Christkind . Ja ja ja .",
+        "Levenshtein Distance 2": 123
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Hans und Rico, Hans Pinnässl, Rico Kamprad",
+        "FILE_MAPPING_1_KEY": "R_utterance10.wav",
+        "Transcription File Mapping 1": "Hans und Rico Hans pfitzner rico Kamprad .",
+        "Levenshtein Distance 1": 11,
+        "FILE_MAPPING_2_KEY": "R_utterance10.wav",
+        "Transcription File Mapping 2": "Hans und Rico Hans pfitzner rico Kamprad .",
+        "Levenshtein Distance 2": 11
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Eh, Fabrice Müller und Janosch Harler",
+        "FILE_MAPPING_1_KEY": "R_utterance11.wav",
+        "Transcription File Mapping 1": "Fabrice Müller und Janosch .",
+        "Levenshtein Distance 1": 10,
+        "FILE_MAPPING_2_KEY": "R_utterance11.wav",
+        "Transcription File Mapping 2": "Fabrice Müller und Janosch .",
+        "Levenshtein Distance 2": 10
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Für ich Tommy Hilfiger und für Vera Wang",
+        "FILE_MAPPING_1_KEY": "R_utterance12.wav",
+        "Transcription File Mapping 1": "Ich Tommy Hilfiger und Vera Wang .",
+        "Levenshtein Distance 1": 10,
+        "FILE_MAPPING_2_KEY": "R_utterance12.wav",
+        "Transcription File Mapping 2": "Ich Tommy Hilfiger und Vera Wang .",
+        "Levenshtein Distance 2": 10
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Enrico Tuller hat heute gearbeitet und auch Richard Schwenke und auch ich Klaus Kunkert",
+        "FILE_MAPPING_1_KEY": "R_utterance13.wav",
+        "Transcription File Mapping 1": "Enrico Tula hat heute gearbeitet und auch Richard schwennicke und Klaus Klunker .",
+        "Levenshtein Distance 1": 18,
+        "FILE_MAPPING_2_KEY": "R_utterance13.wav",
+        "Transcription File Mapping 2": "Enrico Tula hat heute gearbeitet und auch Richard schwennicke und Klaus Klunker .",
+        "Levenshtein Distance 2": 18
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Ich rufe heute für Branden Chan und Russell Hoffman an",
+        "FILE_MAPPING_1_KEY": "R_utterance14.wav",
+        "Transcription File Mapping 1": "Ich rufe heute verbrannten schãnen brussel Hoffmann an .",
+        "Levenshtein Distance 1": 14,
+        "FILE_MAPPING_2_KEY": "R_utterance14.wav",
+        "Transcription File Mapping 2": "Ich rufe heute verbrannten schãnen brussel Hoffmann an .",
+        "Levenshtein Distance 2": 14
+    },
+    {
+        "TRUE_TRANSCRIPTION_KEY": "Für Iwan Lappo und Tobias Wagenführer und öh, wie heißt er, hmm ah ja Simon Gebert",
+        "FILE_MAPPING_1_KEY": "R_utterance15.wav",
+        "Transcription File Mapping 1": "Ivan Lappe und Tobias Wagen Führer und wie heißt der Aya Simon Gebert .",
+        "Levenshtein Distance 1": 22,
+        "FILE_MAPPING_2_KEY": "R_utterance15.wav",
+        "Transcription File Mapping 2": "Ivan Lappe und Tobias Wagen Führer und wie heißt der Aya Simon Gebert .",
+        "Levenshtein Distance 2": 22
+    }
+]
